@@ -5,7 +5,7 @@ How to Play:
 - Video Guide Part 1: https://youtu.be/DUDlyDWdZuc
 - Video Guide Part 2: https://youtu.be/2RLy7Z9MA3M
 - Video Guide Part 3: https://youtu.be/DB_4c75lLb0
-- 
+
 - TdogMiner 1 Minute Mining Game: https://tdogtoken.github.io/1
 - TdogMiner 5 Minutes Mining Game: https://tdogtoken.github.io/5
 - TdogMiner 10 Minutes Mining Game: https://tdogtoken.github.io/10
